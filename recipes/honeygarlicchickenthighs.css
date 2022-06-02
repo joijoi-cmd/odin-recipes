@@ -1,0 +1,47 @@
+body {
+  background-image: url(https://uploads-ssl.webflow.com/60f72e8da92b444d2d788ee5/6124bc62f54fd325b2177042_ella-olsson-oPBjWBCcAEo-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+h1 {
+  color: sienna;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+}
+
+img {
+  vertical-align: text-bottom;
+  width: 500px;
+  height: auto;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  border-radius: 0.5em;
+  padding: 7px;
+  border: thick;
+}
+
+ul {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: black;
+}
+ol {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: black;
+}
+
+h3 {
+  font-size: larger;
+  color: sienna;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+}
+p {
+  color: sienna;
+  font: size 100px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+  font-weight: bold;
+}
