@@ -1,0 +1,38 @@
+body {
+  background: gray;
+  color: wheat;
+  font-family: Arial, Helvetica, sans-serif;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+h1 {
+  background-color: gray;
+  color: wheat;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+p {
+  background-color: gray;
+  color: peachpuff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h3 {
+  background: gray;
+  color-scheme: greenyellow;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+ul {
+  background-color: gray;
+  color: peachpuff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+ol {
+  background-color: gray;
+  color: peachpuff;
+  font-family: Arial, Helvetica, sans-serif;
+}
