@@ -1,0 +1,45 @@
+body {
+  background-color: burlywood;
+}
+
+h1 {
+  background-color: burlywood;
+  color: darkslategray;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 75px;
+  text-align: center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+  padding-top: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+}
+h3 {
+  background-color: burlywood;
+  color: darkslategray;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 45px;
+}
+p {
+  background-color: burlywood;
+  color: darkslategray;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 20px;
+}
+ul {
+  background-color: burlywood;
+  color: darkslategray;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 25px;
+}
+ol {
+  background-color: burlywood;
+  color: darkslategray;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 25px;
+}
